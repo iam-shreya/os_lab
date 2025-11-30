@@ -6,7 +6,7 @@ SYSTEM INFORMATION
 
 1. KERNEL INFORMATION:
 -------------------------
-Kernel Version: 6.12.38+kali-amd64
+Krnel Version: 6.12.38+kali-amd64
 Kernel Name: Linux
 
 2. USER INFORMATION:
